@@ -1,5 +1,4 @@
 # PJM-East-Time-series-Forecasting
-# PJM East Load Forecasting
 
 ### Can a model beat "same hour, last week"?
 
