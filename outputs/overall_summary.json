@@ -1,0 +1,8 @@
+{
+  "avg_naive_mape": 10.286687884993349,
+  "avg_model_a_mape": 5.4287622462477785,
+  "avg_model_b_mape": 5.426685914772638,
+  "model_b_improvement_vs_naive_pct": 47.245547104726334,
+  "model_b_improvement_vs_model_a_pct": 0.038246866982905026,
+  "quantile_10_90_coverage_pct_jan2014_window": 67.26190476190477
+}
